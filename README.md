@@ -19,3 +19,4 @@ El fichero README contiene
  
  [!NOTE]
  es una nota
+tambien
