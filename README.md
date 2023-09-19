@@ -22,3 +22,5 @@ El fichero README contiene
 tambien
 >
 hola
+![an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
