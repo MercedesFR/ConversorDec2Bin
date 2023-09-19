@@ -25,4 +25,4 @@ hola
 
 ![an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-![otra] (/images.jpg.jfif)
+![otra] (/mario.jpg)
