@@ -4,7 +4,7 @@ el fichero contiene código para transformar un número decimal a binario
 El fichero README contiene 
 - titulos
 - subtitulos
-- ** palabras en negrita **
+- **palabras en negrita**
 - _cursivas_
 - listas 
   - anidadas
