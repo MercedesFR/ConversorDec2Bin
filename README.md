@@ -14,5 +14,5 @@ El fichero README contiene
 - una linea horizontal
 
 ------------
- ! esto
- ! es destacar texto
+ > esto
+ > es destacar texto
