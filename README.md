@@ -15,4 +15,4 @@ El fichero README contiene
 
 ------------
  > esto
- > es destacar texto
+ > es para destacar texto
