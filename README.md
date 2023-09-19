@@ -25,4 +25,4 @@ hola
 
 ![an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-![otra] (/ConversorDec2Bin/images.jpg.jfif)
+![otra] (/images.jpg.jfif)
