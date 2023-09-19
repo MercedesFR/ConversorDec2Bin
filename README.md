@@ -18,5 +18,5 @@ El fichero README contiene
  > es para destacar texto
  
 >[!NOTE]
-es una nota
+>es una nota
 tambien
